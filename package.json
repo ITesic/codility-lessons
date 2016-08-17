@@ -1,0 +1,14 @@
+{
+  "name": "codility-lessons",
+  "version": "1.0.0",
+  "description": "Codility lessons in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha lesson1/tests --recursive"
+  },
+  "author": "itesic",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
