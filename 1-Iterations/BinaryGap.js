@@ -76,6 +76,4 @@ function solution(N) {
     return version1(N);
 }
 
-module.exports = {
-    solution: solution
-};
+module.exports = solution;
