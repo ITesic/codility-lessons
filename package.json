@@ -4,7 +4,7 @@
   "description": "Codility lessons in javascript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha lesson1/tests --recursive"
+    "test": "mocha . --recursive"
   },
   "author": "itesic",
   "license": "ISC",
