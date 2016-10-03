@@ -1,7 +1,7 @@
 {
   "name": "codility-lessons",
   "version": "1.0.0",
-  "description": "Codility lessons in javascript",
+  "description": "Codility lessons using JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "mocha . --recursive"
