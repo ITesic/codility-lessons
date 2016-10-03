@@ -1,0 +1,1 @@
+# Codility training using JavaScript
